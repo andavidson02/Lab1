@@ -1,0 +1,4 @@
+#include <msp430.h>
+#define RED LED BIT0 //P1.0
+#define BUTTON1 BIT0 //push button P4.1
+void 
